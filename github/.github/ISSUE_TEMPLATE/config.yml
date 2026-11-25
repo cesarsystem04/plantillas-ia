@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Preguntas Generales de Gobierno
+    url: https://github.com/TI-CTQ/organization-template-enterprise/discussions
+    about: Usa Discussions para preguntas o temas que no requieren seguimiento formal como issue.

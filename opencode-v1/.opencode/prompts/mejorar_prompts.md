@@ -1,0 +1,1 @@
+Analiza cual fue el error y muestrame recomendaciones para mejorar el prompt, con el objetivo de ser más preciso en futuras solicitudes.
